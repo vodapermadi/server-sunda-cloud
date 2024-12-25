@@ -1,0 +1,23 @@
+{
+  "name": "web-sunda-cloud",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "chalk": "^5.4.1",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.11.5",
+    "nodemon": "^3.1.7",
+    "uuid": "^11.0.3"
+  },
+  "packageManager": "yarn@4.5.3+sha512.3003a14012e2987072d244c720506549c1aab73ee728208f1b2580a9fd67b92d61ba6b08fe93f6dce68fd771e3af1e59a0afa28dd242dd0940d73b95fedd4e90"
+}
